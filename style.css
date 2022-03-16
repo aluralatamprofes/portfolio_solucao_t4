@@ -16,7 +16,7 @@ ol, ul,li {
 }
 a{
     text-decoration: none;
-    
+    color: black;
 }
 
 textarea:focus, input:focus, select:focus {
